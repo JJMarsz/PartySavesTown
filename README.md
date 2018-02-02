@@ -8,4 +8,4 @@ Then extract the folder to anywhere you please and click the shortcut to start t
 
 To see version changes, look at CHANGELOG.txt
 
-Alpha version 0.85
+Alpha version 0.90
