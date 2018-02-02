@@ -1,3 +1,10 @@
+VERSION 0.90
+____________
+Added orc dungeon
+Decreaed Orc stats
+Increased Goblin stats
+Fixed Mob targetting to not break when targetting obstructed mobs
+
 VERSION 0.85
 ____________
 Added Goblin dungeon
@@ -10,8 +17,6 @@ Fiddled with mob stat values
 Increased Player base HP
 Increased easy mob count to 4
 Increased Dungeon ability use
-Blockchain?
-Added Herobrine
 
 
 
@@ -20,4 +25,3 @@ ____________
 Skeleton and Zombie Dungeon
 5 Characters (Fighter, Rogue, Barbarian, Ranger, Paladin)
 Dungeon abilities
-Added Herobrine
