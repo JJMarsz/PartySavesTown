@@ -6,4 +6,6 @@ To download and play, simply click the green 'Clone or Download' button and sele
 
 Then extract the folder to anywhere you please and click the shortcut to start the game.
 
-Alpha version 0.8
+To see version changes, look at CHANGELOG.txt
+
+Alpha version 0.85
