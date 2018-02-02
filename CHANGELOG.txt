@@ -1,0 +1,23 @@
+VERSION 0.85
+____________
+Added Goblin dungeon
+Fixed mob targeting algorithm
+Fixed Line of Sight algorithm
+Fixed wall generating algorithm
+Fixed Unit placing
+Fixed Dungeon deadend linkage
+Fiddled with mob stat values
+Increased Player base HP
+Increased easy mob count to 4
+Increased Dungeon ability use
+Blockchain?
+Added Herobrine
+
+
+
+VERSION 0.8
+____________
+Skeleton and Zombie Dungeon
+5 Characters (Fighter, Rogue, Barbarian, Ranger, Paladin)
+Dungeon abilities
+Added Herobrine
