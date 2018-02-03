@@ -1,3 +1,10 @@
+VERSION 0.93
+____________
+Fixed mob targetting to not break when targetting obstructed mobs (again)
+Fixed end game conditions to clean everything up and allow for a new game to be played
+End turn button spam during enemy turns shouldn't mess with anything right now.
+Fixed ranged enemies being able to attack through walls/allies/characters
+
 VERSION 0.90
 ____________
 Added orc dungeon
@@ -17,8 +24,6 @@ Fiddled with mob stat values
 Increased Player base HP
 Increased easy mob count to 4
 Increased Dungeon ability use
-
-
 
 VERSION 0.8
 ____________
