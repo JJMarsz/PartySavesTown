@@ -1,3 +1,10 @@
+VERSION 0.99
+____________
+Fixed rogue's proficiency bonus
+Fixed war chief's stage 2 boss round
+Fixed alive status not being set after returning to town
+Fixed alive status not being set after being healed mid dungeon
+
 VERSION 0.98
 ____________
 Packaged missing DLLs into exe
