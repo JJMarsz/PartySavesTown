@@ -13,3 +13,8 @@ To see version changes, look at CHANGELOG.txt
 THERE IS NO TUTORIAL YET, SORRY.
 
 Alpha version 0.98
+
+THANK YOU ALPHA TESTERS
+-Daniel
+-Dan
+-Ben
