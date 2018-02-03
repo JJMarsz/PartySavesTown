@@ -1,3 +1,9 @@
+VERSION 0.97
+____________
+Added character passives for everyone
+Game is officially playable
+No Tutorial yet
+
 VERSION 0.93
 ____________
 Fixed mob targetting to not break when targetting obstructed mobs (again)
