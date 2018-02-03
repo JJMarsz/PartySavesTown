@@ -12,9 +12,9 @@ To see version changes, look at CHANGELOG.txt
 
 THERE IS NO TUTORIAL YET, SORRY.
 
-Alpha version 0.98
+Alpha version 0.99
 
-THANK YOU ALPHA TESTERS
+THANK YOU TO ALPHA TESTERS:
 
 -Daniel
 
