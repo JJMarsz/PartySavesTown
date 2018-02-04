@@ -12,7 +12,7 @@ To see version changes, look at CHANGELOG.txt
 
 THERE IS NO TUTORIAL YET, SORRY.
 
-Alpha version 1.00
+Alpha version 1.01
 
 THANK YOU TO ALPHA TESTERS:
 
