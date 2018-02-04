@@ -1,3 +1,9 @@
+VERSION 0.995
+____________
+Fixed bugbear's stage 2 boss round
+Added highlight to dungeon button selection
+Tweaked stats on a few mobs
+
 VERSION 0.99
 ____________
 Fixed rogue's proficiency bonus
